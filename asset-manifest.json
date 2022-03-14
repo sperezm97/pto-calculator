@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/pto-calculator/static/js/app.c50a229c.chunk.js",
+    "app.js.map": "/pto-calculator/static/js/app.c50a229c.chunk.js.map",
+    "runtime~app.js": "/pto-calculator/static/js/runtime~app.048a07a6.js",
+    "runtime~app.js.map": "/pto-calculator/static/js/runtime~app.048a07a6.js.map",
+    "static/js/2.7e3373df.chunk.js": "/pto-calculator/static/js/2.7e3373df.chunk.js",
+    "static/js/2.7e3373df.chunk.js.map": "/pto-calculator/static/js/2.7e3373df.chunk.js.map",
+    "favicon-16.png": "/pto-calculator/favicon-16.png",
+    "favicon-32.png": "/pto-calculator/favicon-32.png",
+    "favicon.ico": "/pto-calculator/favicon.ico",
+    "index.html": "/pto-calculator/index.html",
+    "manifest.json": "/pto-calculator/manifest.json",
+    "serve.json": "/pto-calculator/serve.json",
+    "static/js/2.7e3373df.chunk.js.LICENSE.txt": "/pto-calculator/static/js/2.7e3373df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.048a07a6.js",
+    "static/js/2.7e3373df.chunk.js",
+    "static/js/app.c50a229c.chunk.js"
+  ]
+}
