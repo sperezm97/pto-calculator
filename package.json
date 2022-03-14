@@ -2,7 +2,7 @@
   "name": "pto-calculator",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://sperezm97.github.io/pto-calculator",
+  "homepage": "http://sperezm97.github.io/PtoCalculator",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
